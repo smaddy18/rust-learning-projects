@@ -1,0 +1,13 @@
+[package]
+name = "reverse-word"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+unicode-segmentation = "1.9.0"
+time = "0.3"
+time-macros = "0.2.27"
+
+[features]
+default=["grapheme"]
+grapheme = []
