@@ -1,0 +1,1 @@
+D:\Desktop\Formations\Rust\rust-book-projects\exercises\trafic-light-simulator\target\debug\trafic-light-simulator.exe: D:\Desktop\Formations\Rust\rust-book-projects\exercises\trafic-light-simulator\src\main.rs
