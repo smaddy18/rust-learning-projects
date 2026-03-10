@@ -1,0 +1,1 @@
+D:\Desktop\Formations\Rust\rust-book-projects\exercises\user-profile-system\target\debug\user-profile-system.exe: D:\Desktop\Formations\Rust\rust-book-projects\exercises\user-profile-system\src\main.rs
