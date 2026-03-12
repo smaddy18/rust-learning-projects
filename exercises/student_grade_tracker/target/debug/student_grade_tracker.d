@@ -1,0 +1,1 @@
+D:\Desktop\Formations\Rust\rust-book-projects\exercises\student_grade_tracker\target\debug\student_grade_tracker.exe: D:\Desktop\Formations\Rust\rust-book-projects\exercises\student_grade_tracker\src\main.rs
