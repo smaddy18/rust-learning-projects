@@ -1,0 +1,1 @@
+D:\Desktop\Formations\Rust\rust-book-projects\exercises\trait_summary_system\target\debug\trait_summary_system.exe: D:\Desktop\Formations\Rust\rust-book-projects\exercises\trait_summary_system\src\main.rs
