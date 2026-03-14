@@ -1,0 +1,1 @@
+D:\Desktop\Formations\Rust\rust-book-projects\projects\todo\target\debug\libtodo.rlib: D:\Desktop\Formations\Rust\rust-book-projects\projects\todo\src\command.rs D:\Desktop\Formations\Rust\rust-book-projects\projects\todo\src\lib.rs D:\Desktop\Formations\Rust\rust-book-projects\projects\todo\src\task.rs D:\Desktop\Formations\Rust\rust-book-projects\projects\todo\src\todo_list.rs
