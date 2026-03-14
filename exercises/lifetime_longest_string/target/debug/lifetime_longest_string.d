@@ -1,0 +1,1 @@
+D:\Desktop\Formations\Rust\rust-book-projects\exercises\lifetime_longest_string\target\debug\lifetime_longest_string.exe: D:\Desktop\Formations\Rust\rust-book-projects\exercises\lifetime_longest_string\src\main.rs
