@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "learn Rust",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "description": "Order meal from restaurant",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "description": "Make a bit of nap",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "description": "Do sport in the afternoon",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "description": "Take a bath",
+      "completed": false
+    }
+  ]
+}
